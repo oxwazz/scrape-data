@@ -1,743 +1,93 @@
-   {
-    "result": [
-        {
-            "bp_id": 2,
-            "commodity_name": "Beras Premium \/ kg",
-            "commodity_unit": "kg",
-            "price": 15001,
-            "y_price": 14978,
-            "diff": 22,
-            "diff_percent": "0.15 %",
-            "icon": "up",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_beras_ir_64.png"
-        },
-        {
-            "bp_id": 4,
-            "commodity_name": "Beras Medium \/ kg",
-            "commodity_unit": "kg",
-            "price": 12950,
-            "y_price": 12951,
-            "diff": -2,
-            "diff_percent": "-0.01 %",
-            "icon": "down",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_beras_ir_64.png"
-        },
-        {
-            "bp_id": 7,
-            "commodity_name": "Gula Kristal Putih \/ kg",
-            "commodity_unit": "kg",
-            "price": 16555,
-            "y_price": 16561,
-            "diff": -6,
-            "diff_percent": "-0.03 %",
-            "icon": "down",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_gula_pasir.png"
-        },
-        {
-            "bp_id": 10,
-            "commodity_name": "Minyak Goreng Curah \/ kg",
-            "commodity_unit": "kg",
-            "price": 18549,
-            "y_price": 18549,
-            "diff": 0,
-            "diff_percent": "0 %",
-            "icon": "minus",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_minyak_goreng_curah.png"
-        },
-        {
-            "bp_id": 92,
-            "commodity_name": "Minyak Goreng Kemasan Premium \/ liter",
-            "commodity_unit": "1 liter",
-            "price": 20095,
-            "y_price": 20108,
-            "diff": -14,
-            "diff_percent": "-0.07 %",
-            "icon": "down",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_minyak_goreng_curah.png"
-        },
-        {
-            "bp_id": 95,
-            "commodity_name": "Minyak Goreng Kemasan Sederhana \/ liter",
-            "commodity_unit": "1 Liter",
-            "price": 17362,
-            "y_price": 17362,
-            "diff": 0,
-            "diff_percent": "0 %",
-            "icon": "minus",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_minyak_goreng_curah.png"
-        },
-        {
-            "bp_id": 96,
-            "commodity_name": "Minyak Goreng MINYAKITA \/ liter",
-            "commodity_unit": "1 Liter",
-            "price": 16520,
-            "y_price": 16508,
-            "diff": 11,
-            "diff_percent": "0.07 %",
-            "icon": "up",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_minyak_goreng_curah.png"
-        },
-        {
-            "bp_id": 12,
-            "commodity_name": "Daging Sapi Paha Belakang \/ kg",
-            "commodity_unit": "kg",
-            "price": 118664,
-            "y_price": 118670,
-            "diff": -7,
-            "diff_percent": "-0.01 %",
-            "icon": "down",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_daging_sapi_murni.png"
-        },
-        {
-            "bp_id": 13,
-            "commodity_name": "Daging Ayam Ras \/ kg",
-            "commodity_unit": "kg",
-            "price": 31493,
-            "y_price": 31526,
-            "diff": -34,
-            "diff_percent": "-0.11 %",
-            "icon": "down",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_ayam_broiler.png"
-        },
-        {
-            "bp_id": 14,
-            "commodity_name": "Daging Ayam Kampung \/ ekor",
-            "commodity_unit": "ekor",
-            "price": 68339,
-            "y_price": 68271,
-            "diff": 67,
-            "diff_percent": "0.1 %",
-            "icon": "up",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_ayam_kampung.png"
-        },
-        {
-            "bp_id": 16,
-            "commodity_name": "Telur Ayam Ras \/ kg",
-            "commodity_unit": "kg",
-            "price": 27001,
-            "y_price": 27052,
-            "diff": -52,
-            "diff_percent": "-0.19 %",
-            "icon": "down",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_telur_ayam_ras.png"
-        },
-        {
-            "bp_id": 17,
-            "commodity_name": "Telur Ayam Kampung \/ kg",
-            "commodity_unit": "kg",
-            "price": 46505,
-            "y_price": 46505,
-            "diff": 0,
-            "diff_percent": "0 %",
-            "icon": "minus",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_telur_ayam_kampung.png"
-        },
-        {
-            "bp_id": 20,
-            "commodity_name": "Susu Kental Manis Merk Bendera (370 gr\/kl)",
-            "commodity_unit": "370 gr\/kl",
-            "price": 12434,
-            "y_price": 12452,
-            "diff": -19,
-            "diff_percent": "-0.14 %",
-            "icon": "down",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_susu_kental_bendera.png"
-        },
-        {
-            "bp_id": 21,
-            "commodity_name": "Susu Kental Manis Merk Indomilk (370 gr\/kl)",
-            "commodity_unit": "370 gr\/kl",
-            "price": 12337,
-            "y_price": 12355,
-            "diff": -19,
-            "diff_percent": "-0.15 %",
-            "icon": "down",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_susu_kental_indomilk.png"
-        },
-        {
-            "bp_id": 23,
-            "commodity_name": "Susu Bubuk Merk Bendera (Instant) \/ (400 gr\/dos)",
-            "commodity_unit": "400 gr\/dos",
-            "price": 41664,
-            "y_price": 41664,
-            "diff": 0,
-            "diff_percent": "0 %",
-            "icon": "minus",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_susu_bubuk_bendera.png"
-        },
-        {
-            "bp_id": 24,
-            "commodity_name": "Susu Bubuk Merk Indomilk (Instant) \/ (400 gr\/dos)",
-            "commodity_unit": "400 gr\/dos",
-            "price": 40634,
-            "y_price": 40634,
-            "diff": 0,
-            "diff_percent": "0 %",
-            "icon": "minus",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_susu_bubuk_indomilk.png"
-        },
-        {
-            "bp_id": 25,
-            "commodity_name": "Jagung Pipilan Kering \/ kg",
-            "commodity_unit": "kg",
-            "price": 7551,
-            "y_price": 7564,
-            "diff": -14,
-            "diff_percent": "-0.17 %",
-            "icon": "down",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_jagung_pipilan_kering.png"
-        },
-        {
-            "bp_id": 27,
-            "commodity_name": "Garam Beryodium  Bata \/ buah",
-            "commodity_unit": "Buah",
-            "price": 1669,
-            "y_price": 1669,
-            "diff": 0,
-            "diff_percent": "0 %",
-            "icon": "minus",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_garam_bata.png"
-        },
-        {
-            "bp_id": 28,
-            "commodity_name": "Garam Beryodium Halus \/ kg",
-            "commodity_unit": "kg",
-            "price": 9451,
-            "y_price": 9451,
-            "diff": 0,
-            "diff_percent": "0 %",
-            "icon": "minus",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_garam_halus.png"
-        },
-        {
-            "bp_id": 30,
-            "commodity_name": "Tepung Terigu \/ kg",
-            "commodity_unit": "kg",
-            "price": 11387,
-            "y_price": 11380,
-            "diff": 6,
-            "diff_percent": "0.05 %",
-            "icon": "up",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_tepung_segitiga_biru.png"
-        },
-        {
-            "bp_id": 32,
-            "commodity_name": "Kacang Kedelai Impor \/ kg",
-            "commodity_unit": "kg",
-            "price": 12656,
-            "y_price": 12639,
-            "diff": 16,
-            "diff_percent": "0.13 %",
-            "icon": "up",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_kacang_kedelai_impor.png"
-        },
-        {
-            "bp_id": 33,
-            "commodity_name": "Kacang Kedelai Lokal \/ kg",
-            "commodity_unit": "kg",
-            "price": 13283,
-            "y_price": 13269,
-            "diff": 13,
-            "diff_percent": "0.1 %",
-            "icon": "up",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_kacang_kedelai_lokal.png"
-        },
-        {
-            "bp_id": 35,
-            "commodity_name": "Indomie Rasa Kari Ayam \/ bungkus",
-            "commodity_unit": "Bungkus",
-            "price": 3185,
-            "y_price": 3185,
-            "diff": 0,
-            "diff_percent": "0 %",
-            "icon": "minus",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_indomie_kari_ayam.png"
-        },
-        {
-            "bp_id": 37,
-            "commodity_name": "Cabe Merah Keriting \/ kg",
-            "commodity_unit": "kg",
-            "price": 33550,
-            "y_price": 33231,
-            "diff": 318,
-            "diff_percent": "0.96 %",
-            "icon": "up",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_cabe_keriting.png"
-        },
-        {
-            "bp_id": 38,
-            "commodity_name": "Cabe Merah Besar \/ kg",
-            "commodity_unit": "kg",
-            "price": 34583,
-            "y_price": 34435,
-            "diff": 148,
-            "diff_percent": "0.43 %",
-            "icon": "up",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_cabe_besar_biasa.png"
-        },
-        {
-            "bp_id": 50,
-            "commodity_name": "Cabe Rawit Merah \/ kg",
-            "commodity_unit": "kg",
-            "price": 31934,
-            "y_price": 32282,
-            "diff": -349,
-            "diff_percent": "-1.08 %",
-            "icon": "down",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_cabe_rawit.png"
-        },
-        {
-            "bp_id": 39,
-            "commodity_name": "Bawang Merah \/ kg",
-            "commodity_unit": "kg",
-            "price": 49085,
-            "y_price": 49111,
-            "diff": -26,
-            "diff_percent": "-0.05 %",
-            "icon": "down",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_bawang_merah.png"
-        },
-        {
-            "bp_id": 49,
-            "commodity_name": "Bawang Putih \/ kg",
-            "commodity_unit": "kg",
-            "price": 30510,
-            "y_price": 30510,
-            "diff": 0,
-            "diff_percent": "0 %",
-            "icon": "up",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_bawang_putih.png"
-        },
-        {
-            "bp_id": 40,
-            "commodity_name": "Ikan Asin Teri \/ kg",
-            "commodity_unit": "kg",
-            "price": 76470,
-            "y_price": 76470,
-            "diff": 0,
-            "diff_percent": "0 %",
-            "icon": "minus",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_ikan_asin_teri.png"
-        },
-        {
-            "bp_id": 41,
-            "commodity_name": "Kacang Hijau \/ kg",
-            "commodity_unit": "kg",
-            "price": 22691,
-            "y_price": 22642,
-            "diff": 49,
-            "diff_percent": "0.22 %",
-            "icon": "up",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_kacang_hijau.png"
-        },
-        {
-            "bp_id": 42,
-            "commodity_name": "Kacang Tanah \/ kg",
-            "commodity_unit": "kg",
-            "price": 27625,
-            "y_price": 27642,
-            "diff": -18,
-            "diff_percent": "-0.06 %",
-            "icon": "down",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_kacang_tanah.png"
-        },
-        {
-            "bp_id": 43,
-            "commodity_name": "Ketela Pohon \/ kg",
-            "commodity_unit": "kg",
-            "price": 4957,
-            "y_price": 4963,
-            "diff": -7,
-            "diff_percent": "-0.13 %",
-            "icon": "down",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_ketela_pohon.png"
-        },
-        {
-            "bp_id": 44,
-            "commodity_name": "Kol\/kubis (\/kg)",
-            "commodity_unit": "kg",
-            "price": 8460,
-            "y_price": 8487,
-            "diff": -28,
-            "diff_percent": "-0.32 %",
-            "icon": "down",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_kol_kubis.png"
-        },
-        {
-            "bp_id": 45,
-            "commodity_name": "Kentang \/ kg",
-            "commodity_unit": "kg",
-            "price": 15263,
-            "y_price": 15278,
-            "diff": -16,
-            "diff_percent": "-0.1 %",
-            "icon": "down",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_kentang.png"
-        },
-        {
-            "bp_id": 46,
-            "commodity_name": "Tomat \/ kg",
-            "commodity_unit": "kg",
-            "price": 10947,
-            "y_price": 11319,
-            "diff": -372,
-            "diff_percent": "-3.28 %",
-            "icon": "down",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_tomat.png"
-        },
-        {
-            "bp_id": 47,
-            "commodity_name": "Wortel \/ kg",
-            "commodity_unit": "kg",
-            "price": 11328,
-            "y_price": 11326,
-            "diff": 1,
-            "diff_percent": "0.01 %",
-            "icon": "up",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_wortel.png"
-        },
-        {
-            "bp_id": 48,
-            "commodity_name": "Buncis \/ kg",
-            "commodity_unit": "kg",
-            "price": 9937,
-            "y_price": 9955,
-            "diff": -18,
-            "diff_percent": "-0.18 %",
-            "icon": "down",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_buncis.png"
-        },
-        {
-            "bp_id": 54,
-            "commodity_name": "Semen Gresik \/ 40 Kg",
-            "commodity_unit": "40 Kg",
-            "price": 56855,
-            "y_price": 56855,
-            "diff": 0,
-            "diff_percent": "0 %",
-            "icon": "minus",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_semen_gresik.png"
-        },
-        {
-            "bp_id": 55,
-            "commodity_name": "Semen Tiga Roda \/ 40 Kg",
-            "commodity_unit": "40 Kg",
-            "price": 51844,
-            "y_price": 51898,
-            "diff": -54,
-            "diff_percent": "-0.1 %",
-            "icon": "down",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_semen_3roda.png"
-        },
-        {
-            "bp_id": 89,
-            "commodity_name": "Semen Padang \/ 40Kg",
-            "commodity_unit": "40 Kg",
-            "price": 48300,
-            "y_price": 48300,
-            "diff": 0,
-            "diff_percent": "0 %",
-            "icon": "minus",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_semen_padang.png"
-        },
-        {
-            "bp_id": 90,
-            "commodity_name": "Semen Tonasa \/ 40Kg",
-            "commodity_unit": "40 Kg",
-            "price": 48133,
-            "y_price": 48133,
-            "diff": 0,
-            "diff_percent": "0 %",
-            "icon": "minus",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_semen_tonasa.png"
-        },
-        {
-            "bp_id": 91,
-            "commodity_name": "Semen Bosowa \/ 40Kg",
-            "commodity_unit": "40 Kg",
-            "price": 48303,
-            "y_price": 48303,
-            "diff": 0,
-            "diff_percent": "0 %",
-            "icon": "minus",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_semen_bosowa.png"
-        },
-        {
-            "bp_id": 93,
-            "commodity_name": "Semen Dynamix \/ 40 Kg",
-            "commodity_unit": "40 Kg",
-            "price": 49787,
-            "y_price": 49787,
-            "diff": 0,
-            "diff_percent": "0 %",
-            "icon": "minus",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_semen_dynamix.png"
-        },
-        {
-            "bp_id": 58,
-            "commodity_name": "Ikan Bandeng \/ kg",
-            "commodity_unit": "kg",
-            "price": 32588,
-            "y_price": 32641,
-            "diff": -54,
-            "diff_percent": "-0.16 %",
-            "icon": "down",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_ikan_bandeng.png"
-        },
-        {
-            "bp_id": 59,
-            "commodity_name": "Ikan Kembung \/ kg",
-            "commodity_unit": "kg",
-            "price": 33353,
-            "y_price": 33415,
-            "diff": -62,
-            "diff_percent": "-0.19 %",
-            "icon": "down",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_ikan_kembung.png"
-        },
-        {
-            "bp_id": 61,
-            "commodity_name": "Ikan Tuna \/ kg",
-            "commodity_unit": "kg",
-            "price": 38649,
-            "y_price": 38682,
-            "diff": -33,
-            "diff_percent": "-0.08 %",
-            "icon": "down",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_ikan_tuna.png"
-        },
-        {
-            "bp_id": 60,
-            "commodity_name": "Ikan Tongkol \/ kg",
-            "commodity_unit": "kg",
-            "price": 31133,
-            "y_price": 31142,
-            "diff": -10,
-            "diff_percent": "-0.03 %",
-            "icon": "down",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_ikan_tongkol.png"
-        },
-        {
-            "bp_id": 62,
-            "commodity_name": "Ikan Cakalang \/ kg",
-            "commodity_unit": "kg",
-            "price": 32513,
-            "y_price": 32502,
-            "diff": 10,
-            "diff_percent": "0.03 %",
-            "icon": "up",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_ikan_cakalang.png"
-        },
-        {
-            "bp_id": 67,
-            "commodity_name": "KAYU BALOK MERANTI (4 X 10)",
-            "commodity_unit": "Btg",
-            "price": 98573,
-            "y_price": 98573,
-            "diff": 0,
-            "diff_percent": "0 %",
-            "icon": "minus",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_kayu_balok_meranti.png"
-        },
-        {
-            "bp_id": 68,
-            "commodity_name": "Papan Meranti (4m X 3cm X 20mm)",
-            "commodity_unit": "Lembar",
-            "price": 99607,
-            "y_price": 99607,
-            "diff": 0,
-            "diff_percent": "0 %",
-            "icon": "minus",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_papan_meranti.png"
-        },
-        {
-            "bp_id": 69,
-            "commodity_name": "Triplek (6mm)\/ lembar",
-            "commodity_unit": "lembar",
-            "price": 77129,
-            "y_price": 77129,
-            "diff": 0,
-            "diff_percent": "0 %",
-            "icon": "minus",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_triplek.png"
-        },
-        {
-            "bp_id": 71,
-            "commodity_name": "Besi Beton 6 mm (12\/9m) \/ Btg",
-            "commodity_unit": "Btg",
-            "price": 30456,
-            "y_price": 30456,
-            "diff": 0,
-            "diff_percent": "0 %",
-            "icon": "minus",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_besi_beton_6mm.png"
-        },
-        {
-            "bp_id": 72,
-            "commodity_name": "Besi Beton 8 mm (12\/9m) \/ Btg",
-            "commodity_unit": "Btg",
-            "price": 48505,
-            "y_price": 48505,
-            "diff": 0,
-            "diff_percent": "0 %",
-            "icon": "minus",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_besi_beton_8mm.png"
-        },
-        {
-            "bp_id": 73,
-            "commodity_name": "Besi Beton 10 mm (12\/9m) \/ Btg",
-            "commodity_unit": "Btg",
-            "price": 71064,
-            "y_price": 71064,
-            "diff": 0,
-            "diff_percent": "0 %",
-            "icon": "minus",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_besi_beton_12mm.png"
-        },
-        {
-            "bp_id": 74,
-            "commodity_name": "Besi Beton 12 mm (12\/9m) \/ Btg",
-            "commodity_unit": "Btg",
-            "price": 99004,
-            "y_price": 99004,
-            "diff": 0,
-            "diff_percent": "0 %",
-            "icon": "minus",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_besi_beton_12mm.png"
-        },
-        {
-            "bp_id": 81,
-            "commodity_name": "Paku Ukuran 10Cm \/Kg",
-            "commodity_unit": "Kg",
-            "price": 18404,
-            "y_price": 18404,
-            "diff": 0,
-            "diff_percent": "0 %",
-            "icon": "minus",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_paku_10cm.png"
-        },
-        {
-            "bp_id": 76,
-            "commodity_name": "Paku Ukuran 2 Cm \/Kg",
-            "commodity_unit": "Kg",
-            "price": 19160,
-            "y_price": 19160,
-            "diff": 0,
-            "diff_percent": "0 %",
-            "icon": "minus",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_paku_2cm.png"
-        },
-        {
-            "bp_id": 77,
-            "commodity_name": "Paku Ukuran 3Cm\/Kg",
-            "commodity_unit": "Kg",
-            "price": 19221,
-            "y_price": 19221,
-            "diff": 0,
-            "diff_percent": "0 %",
-            "icon": "minus",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_paku_3cm.png"
-        },
-        {
-            "bp_id": 78,
-            "commodity_name": "Paku Ukuran 4Cm\/Kg",
-            "commodity_unit": "kg",
-            "price": 18911,
-            "y_price": 18911,
-            "diff": 0,
-            "diff_percent": "0 %",
-            "icon": "minus",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_paku_4cm.png"
-        },
-        {
-            "bp_id": 79,
-            "commodity_name": "Paku Ukuran 5Cm\/Kg",
-            "commodity_unit": "Kg",
-            "price": 18444,
-            "y_price": 18444,
-            "diff": 0,
-            "diff_percent": "0 %",
-            "icon": "minus",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_paku_5cm.png"
-        },
-        {
-            "bp_id": 80,
-            "commodity_name": "Paku Ukuran 7Cm\/Kg",
-            "commodity_unit": "Kg",
-            "price": 18468,
-            "y_price": 18468,
-            "diff": 0,
-            "diff_percent": "0 %",
-            "icon": "minus",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_paku_7cm.png"
-        },
-        {
-            "bp_id": 82,
-            "commodity_name": "GAS ELPIGI 3 Kg",
-            "commodity_unit": "Kg",
-            "price": 19631,
-            "y_price": 19631,
-            "diff": 0,
-            "diff_percent": "0 %",
-            "icon": "minus",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_lpg.png"
-        },
-        {
-            "bp_id": 84,
-            "commodity_name": "Pupuk KCL  Non Subsidi \/ Kg",
-            "commodity_unit": "Kg",
-            "price": 10693,
-            "y_price": 10693,
-            "diff": 0,
-            "diff_percent": "0 %",
-            "icon": "minus",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_pupuk_kcl.png"
-        },
-        {
-            "bp_id": 85,
-            "commodity_name": "Pupuk NPK Non Subsidi \/ Kg",
-            "commodity_unit": "Kg",
-            "price": 13852,
-            "y_price": 13852,
-            "diff": 0,
-            "diff_percent": "0 %",
-            "icon": "minus",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_pupuk_npk.png"
-        },
-        {
-            "bp_id": 86,
-            "commodity_name": "Pupuk SP 35 Non Subsidi \/ Kg",
-            "commodity_unit": "Kg",
-            "price": 8404,
-            "y_price": 8386,
-            "diff": 18,
-            "diff_percent": "0.22 %",
-            "icon": "up",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_pupuk_sp36.png"
-        },
-        {
-            "bp_id": 87,
-            "commodity_name": "Pupuk Urea Non Subsidi \/ Kg",
-            "commodity_unit": "Kg",
-            "price": 8473,
-            "y_price": 8458,
-            "diff": 14,
-            "diff_percent": "0.17 %",
-            "icon": "up",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_pupuk_urea.png"
-        },
-        {
-            "bp_id": 88,
-            "commodity_name": "Pupuk ZA Non Subsidi \/ Kg",
-            "commodity_unit": "Kg",
-            "price": 6859,
-            "y_price": 6859,
-            "diff": 0,
-            "diff_percent": "0 %",
-            "icon": "minus",
-            "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_pupuk_za.png"
-        }
-    ],
-    "success": true,
-    "msg": "OK"
-}
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Origin DNS error | siskaperbapo.jatimprov.go.id | Cloudflare</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />
+
+
+<script>
+(function(){if(document.addEventListener&&window.XMLHttpRequest&&JSON&&JSON.stringify){var e=function(a){var c=document.getElementById("error-feedback-survey"),d=document.getElementById("error-feedback-success"),b=new XMLHttpRequest;a={event:"feedback clicked",properties:{errorCode:1016,helpful:a,version:1}};b.open("POST","https://sparrow.cloudflare.com/api/v1/event");b.setRequestHeader("Content-Type","application/json");b.setRequestHeader("Sparrow-Source-Key","c771f0e4b54944bebf4261d44bd79a1e");
+b.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove("feedback-hidden")};document.addEventListener("DOMContentLoaded",function(){var a=document.getElementById("error-feedback"),c=document.getElementById("feedback-button-yes"),d=document.getElementById("feedback-button-no");"classList"in a&&(a.classList.remove("feedback-hidden"),c.addEventListener("click",function(){e(!0)}),d.addEventListener("click",function(){e(!1)}))})}})();
+</script>
+
+<script defer src="https://performance.radar.cloudflare.com/beacon.js"></script>
+</head>
+<body>
+  <div id="cf-wrapper">
+    <div class="cf-alert cf-alert-error cf-cookie-error hidden" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+    <div id="cf-error-details" class="p-0">
+      <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-15 antialiased">
+         <h1 class="inline-block md:block mr-2 md:mb-2 font-light text-60 md:text-3xl text-black-dark leading-tight">
+           <span data-translate="error">Error</span>
+           <span>1016</span>
+         </h1>
+         <span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 96adc769402d2081 &bull;</span>
+         <span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">2025-08-06 10:16:32 UTC</span>
+        <h2 class="text-gray-600 leading-1.3 text-3xl lg:text-2xl font-light">Origin DNS error</h2>
+      </header>
+
+      <section class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
+          <div id="what-happened-section" class="w-1/2 md:w-full">
+            <h2 class="text-3xl leading-tight font-normal mb-4 text-black-dark antialiased" data-translate="what_happened">What happened?</h2>
+            <p>You've requested a page on a website (siskaperbapo.jatimprov.go.id) that is on the <a href="https://www.cloudflare.com/5xx-error-landing/" target="_blank">Cloudflare</a> network. Cloudflare is currently unable to resolve your requested domain (siskaperbapo.jatimprov.go.id).
+            
+              <p>Please see <a rel="noopener noreferrer" href="https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-1xxx-errors/error-1016/" target="_blank">https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-1xxx-errors/error-1016/</a> for more details.</p>
+            
+          </div>
+
+          
+          <div id="resolution-copy-section" class="w-1/2 mt-6 text-15 leading-normal">
+            <h2 class="text-3xl leading-tight font-normal mb-4 text-black-dark antialiased" data-translate="what_can_i_do">What can I do?</h2>
+            <p><strong>If you are a visitor of this website:</strong><br />Please try again in a few minutes.</p><p><strong>If you are the owner of this website:</strong><br />Check your DNS settings. If you are using a CNAME origin record, make sure it is valid and resolvable. <a rel="noopener noreferrer" href="https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-1xxx-errors/#error-1016-origin-dns-error">Additional troubleshooting information here.</a></p>
+          </div>
+          
+      </section>
+
+      <div class="feedback-hidden py-8 text-center" id="error-feedback">
+    <div id="error-feedback-survey" class="footer-line-wrapper">
+        Was this page helpful?
+        <button class="border border-solid bg-white cf-button cursor-pointer ml-4 px-4 py-2 rounded" id="feedback-button-yes" type="button">Yes</button>
+        <button class="border border-solid bg-white cf-button cursor-pointer ml-4 px-4 py-2 rounded" id="feedback-button-no" type="button">No</button>
+    </div>
+    <div class="feedback-success feedback-hidden" id="error-feedback-success">
+        Thank you for your feedback!
+    </div>
+</div>
+
+
+      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">96adc769402d2081</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+      Your IP:
+      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+      <span class="hidden" id="cf-footer-ip">145.132.102.49</span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+    </span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+</div><!-- /.error-footer -->
+
+
+    </div><!-- /#cf-error-details -->
+  </div><!-- /#cf-wrapper -->
+
+  <script>
+  window._cf_translation = {};
+  
+  
+</script>
+
+</body>
+</html>
