@@ -15,10 +15,10 @@
             "bp_id": 4,
             "commodity_name": "Beras Medium \/ kg",
             "commodity_unit": "kg",
-            "price": 12989,
+            "price": 12975,
             "y_price": 12995,
-            "diff": -7,
-            "diff_percent": "-0.05 %",
+            "diff": -20,
+            "diff_percent": "-0.15 %",
             "icon": "down",
             "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_beras_ir_64.png"
         },
@@ -115,10 +115,10 @@
             "commodity_name": "Telur Ayam Ras \/ kg",
             "commodity_unit": "kg",
             "price": 26169,
-            "y_price": 26186,
-            "diff": -17,
-            "diff_percent": "-0.06 %",
-            "icon": "down",
+            "y_price": 26151,
+            "diff": 18,
+            "diff_percent": "0.07 %",
+            "icon": "up",
             "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_telur_ayam_ras.png"
         },
         {
