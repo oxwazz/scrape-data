@@ -356,11 +356,11 @@
             "bp_id": 44,
             "commodity_name": "Kol\/kubis (\/kg)",
             "commodity_unit": "kg",
-            "price": 8713,
+            "price": 8180,
             "y_price": 8224,
-            "diff": 489,
-            "diff_percent": "5.95 %",
-            "icon": "up",
+            "diff": -44,
+            "diff_percent": "-0.53 %",
+            "icon": "down",
             "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_kol_kubis.png"
         },
         {
