@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 - Halaman Tidak Ditemukan</title>
+    <meta http-equiv="refresh" content="5;url=https://www.google.com">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            text-align: center;
+            padding: 50px;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            padding: 40px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            font-size: 100px;
+            color: #dc3545;
+            margin: 0;
+        }
+        h2 {
+            font-size: 24px;
+            color: #333;
+            margin: 10px 0;
+        }
+        p {
+            color: #666;
+        }
+        a {
+            display: inline-block;
+            text-decoration: none;
+            background: #007bff;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        a:hover {
+            background: #0056b3;
+        }
+    </style>
+    <script>
+        setTimeout(function() {
+            window.location.href = "https://www.google.com";
+        }, 5000);
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h1>404</h1>
+        <h2>Halaman Tidak Ditemukan</h2>
+        <p>Anda akan dialihkan ke Google dalam <span id="countdown">5</span> detik...</p>
+        <p>Jika tidak dialihkan, klik tombol di bawah ini.</p>
+        <a href="https://www.google.com">Pergi ke Google</a>
+    </div>
+
+    <script>
+        let count = 5;
+        let countdown = document.getElementById("countdown");
+        setInterval(function() {
+            if (count > 1) {
+                count--;
+                countdown.textContent = count;
+            }
+        }, 1000);
+    </script>
+</body>
+</html>
