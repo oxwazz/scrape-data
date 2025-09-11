@@ -81,11 +81,11 @@
             "bp_id": 12,
             "commodity_name": "Daging Sapi Paha Belakang \/ kg",
             "commodity_unit": "kg",
-            "price": 118140,
+            "price": 118755,
             "y_price": 118580,
-            "diff": -441,
-            "diff_percent": "-0.37 %",
-            "icon": "down",
+            "diff": 175,
+            "diff_percent": "0.15 %",
+            "icon": "up",
             "image": "https:\/\/siskaperbapo.jatimprov.go.id\/assets\/images\/komoditi\/ic_daging_sapi_murni.png"
         },
         {
